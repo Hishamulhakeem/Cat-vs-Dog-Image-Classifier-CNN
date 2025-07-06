@@ -15,6 +15,3 @@ This project is a Convolutional Neural Network (CNN) based image classifier that
 - Conv2D and MaxPooling layers
 - Dropout for regularization
 - Dense output with `softmax` activation
-
-## 🗂️ Folder Structure
-
