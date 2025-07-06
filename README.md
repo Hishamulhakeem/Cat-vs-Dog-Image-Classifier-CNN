@@ -16,6 +16,16 @@ This project is a Convolutional Neural Network (CNN) based image classifier that
 - Dropout for regularization
 - Dense output with `softmax` activation
 
+  ## 🗂️ Folder Structure
+
+  Pet_classification/
+│
+├── Pet_classification.ipynb # Main Jupyter Notebook
+├── README.md # This file
+├── requirements.txt # Dependencies
+├── test_image.jpg # Example test image (optional)
+└── model.h5 # Saved trained model (if available)
+
 
 ## 🛠️ Requirements
 
