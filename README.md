@@ -15,3 +15,11 @@ This project is a Convolutional Neural Network (CNN) based image classifier that
 - Conv2D and MaxPooling layers
 - Dropout for regularization
 - Dense output with `softmax` activation
+
+
+## 🛠️ Requirements
+
+Install the required libraries using:
+
+```bash
+pip install -r requirements.txt
