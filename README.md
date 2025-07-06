@@ -19,6 +19,7 @@ This project is a Convolutional Neural Network (CNN) based image classifier that
 ## 🗂️ Folder Structure
 
   Pet_classification/
+  
     │
     ├── Pet_classification.ipynb # Main Jupyter Notebook
 
