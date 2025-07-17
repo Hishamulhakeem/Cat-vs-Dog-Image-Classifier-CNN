@@ -31,9 +31,6 @@ This project is a Convolutional Neural Network (CNN) based image classifier that
 
     └── model.h5 # Saved trained model (if available)
 
-├── README.md # This file
-
-
 ## 🛠️ Requirements
 
 Install the required libraries using:
