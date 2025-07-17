@@ -20,7 +20,6 @@ This project is a Convolutional Neural Network (CNN) based image classifier that
 
   Pet_classification/
   
-    │
     ├── Pet_classification.ipynb # Main Jupyter Notebook
 
     ├── README.md # This file
