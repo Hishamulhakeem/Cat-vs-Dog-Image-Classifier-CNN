@@ -24,11 +24,13 @@ This project is a Convolutional Neural Network (CNN) based image classifier that
 
     ├── README.md 
 
-    ├── requirements.txt # Dependencies
+    ├── requirements.txt 
 
-    ├── dog.jpg # Example test image (optional)
+    ├── dog.jpg # Example test image 
 
-    └── model.h5 # Saved trained model (if available)
+    ├── cat.jpg #optional
+
+    └── model.h5 # Saved trained model 
 
 ## 🛠️ Requirements
 
